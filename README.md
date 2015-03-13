@@ -1,2 +1,1 @@
-# doc
-current_work
+happy to start this adventure!
